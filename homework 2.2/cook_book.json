@@ -1,0 +1,29 @@
+{"пельмени": [
+	{"ingridient_name": "мука", "quantity": 200, "measure": "гр."},
+	{"ingridient_name": "€йца", "quantity": 1, "measure": "шт."},
+	{"ingridient_name": "фарш", "quantity": 400, "measure": "гр."},
+	{"ingridient_name": "вода", "quantity": 200, "measure": "мл."}
+	],
+"салат": [
+	{"ingridient_name": "помидоры", "quantity": 200, "measure": "гр."},
+	{"ingridient_name": "огурцы", "quantity": 200, "measure": "гр."},
+	{"ingridient_name": "лук", "quantity": 10, "measure": "гр."},
+	{"ingridient_name": "масло", "quantity": 50, "measure": "мл."}
+	],
+"пицца": [
+	{"ingridient_name": "мука", "quantity": 100, "measure": "гр."},
+	{"ingridient_name": "€йца", "quantity": 1, "measure": "шт."},
+	{"ingridient_name": "помидоры", "quantity": 100, "measure": "гр."},
+	{"ingridient_name": "масло", "quantity": 50, "measure": "мл."},
+	{"ingridient_name": "сыр", "quantity": 100, "measure": "шт."}
+	],
+"стейк": [
+    {"ingridient_name": "гов€дина", "quantity": 300, "measure": "гр."},
+    {"ingridient_name": "специи", "quantity": 5, "measure": "гр."},
+    {"ingridient_name": "масло", "quantity": 10, "measure": "мл."}
+    ],
+"€йчница": [
+    {"ingridient_name": "€йца", "quantity": 2, "measure": "шт."},
+    {"ingridient_name": "помидоры", "quantity": 100, "measure": "гр."}
+    ]
+}
